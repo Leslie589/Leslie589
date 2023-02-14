@@ -1,16 +1,28 @@
-### Hi there 👋
+<a href="https://es.cooltext.com"><img src="https://images.cooltext.com/5643751.png" width="436" height="90" alt="Bienvenidos" /> </a>
+<br />
+## Hola Visitantes 👋
 
-<!--
-**Leslie589/Leslie589** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Mi nombre : Leslie Anahi Wilton Lopez 
+- Num.C 18201543
+
+## Sistemas Programables 
+
+Materiales a usar en la clase 
+- Arduino clasico
+- STM32
+- RaspberryPi 
+- kit de sensores y herramientas soldar
+
+
+
+# HORARIO
+
+<table><tr><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">hora</font></font></span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Lunes</font></font></span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Martes</font></font></span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Miércoles</font></font></span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Jueves</font></font></span></p></div></div></td></tr><tr><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;" class="" contenteditable="false"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">inteligencia artificial</font></font></span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">inteligencia artificial</font></font></span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">inteligencia artificial</font></font></span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">inteligencia artificial</font></font></span></p></div></div></td></tr><tr><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;" class="" contenteditable="false"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5</font></font></span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">administración redes</font></font></span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">administración redes</font></font></span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">administración redes</font></font></span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">administración redes</font></font></span></p></div></div></td></tr><tr><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;" class="" contenteditable="false"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5</font></font></span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Materia Global:Sistemas programables</font></font></span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Materia Global:Sistemas programables</font></font></span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Materia Global:Sistemas programables</font></font></span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Materia Global:Sistemas programables</font></font></span></p></div></div></td></tr></table>
+
+
+
+
+<a href="https://es.cooltext.com"><img src="https://images.cooltext.com/5643752.png" width="427" height="89" alt="Buen curso " /></a>
+<br />
