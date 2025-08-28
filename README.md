@@ -1,4 +1,4 @@
-# 👨‍💻 ¡Hola, soy [Tu Nombre Aquí]!
+# 👨‍💻 ¡Hola, soy Leslie A. Lopez !
 
 ## 👨‍🎓 Ingeniero en Sistemas Computacionales  
 
