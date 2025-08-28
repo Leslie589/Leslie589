@@ -1,4 +1,4 @@
-<a href="https://es.cooltext.com"><img src="https://images.cooltext.com/5643751.png" width="436" height="90" alt="Bienvenidos" /> </a>
+<a alt="Bienvenidos" /> </a>
 <br />
 ## Hola Visitantes 👋
 
