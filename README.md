@@ -1,28 +1,29 @@
-<a alt="Bienvenidos" /> </a>
-<br />
-## Hola Visitantes 👋
+# 👨‍💻 ¡Hola, soy [Tu Nombre Aquí]!
 
+## 👨‍🎓 Ingeniero en Sistemas Computacionales  
 
+Ingeniero en sistemas computacionales con especialidad en análisis, diseño y desarrollo de software. Actualmente me encuentro en una etapa de formación práctica, desarrollando proyectos personales para aplicar mis conocimientos y seguir fortaleciendo mis habilidades técnicas.
 
-- Mi nombre : Leslie Anahi Wilton Lopez 
-- Num.C 18201543
+Mi enfoque está en seguir aprendiendo constantemente y adaptarme a nuevas tecnologías. Busco una primera oportunidad profesional donde pueda aportar con compromiso, responsabilidad y muchas ganas de crecer dentro del área del desarrollo de software.
 
-## Sistemas Programables 
+---
 
-Materiales a usar en la clase 
-- Arduino clasico
-- STM32
-- RaspberryPi 
-- kit de sensores y herramientas soldar
+### 💡 Tecnologías y herramientas que manejo:
 
+- 💻 **Lenguajes de programación:** Python, Java, C#, JavaScript  
+- 🎨 **Desarrollo Frontend:** HTML, CSS, SASS, Bootstrap  
+- 🖥️ **Interfaces gráficas:** Windows Forms  
+- 🗄️ **Bases de datos:** MySQL, SQL Server, MongoDB  
+- 🌐 **Desarrollo Backend:** Node.js, Express  
+- 🛠️ **Herramientas y entornos:** Git, GitHub, Visual Studio, VS Code  
 
+---
 
-# HORARIO
+### 📫 ¿Te gustaría contactarme?
 
-<table><tr><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">hora</font></font></span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Lunes</font></font></span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Martes</font></font></span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Miércoles</font></font></span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Jueves</font></font></span></p></div></div></td></tr><tr><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;" class="" contenteditable="false"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">inteligencia artificial</font></font></span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">inteligencia artificial</font></font></span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">inteligencia artificial</font></font></span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">inteligencia artificial</font></font></span></p></div></div></td></tr><tr><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;" class="" contenteditable="false"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5</font></font></span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">administración redes</font></font></span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">administración redes</font></font></span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">administración redes</font></font></span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">administración redes</font></font></span></p></div></div></td></tr><tr><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;" class="" contenteditable="false"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5</font></font></span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Materia Global:Sistemas programables</font></font></span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Materia Global:Sistemas programables</font></font></span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Materia Global:Sistemas programables</font></font></span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Materia Global:Sistemas programables</font></font></span></p></div></div></td></tr></table>
+- 🔗 LinkedIn: [Tu perfil de LinkedIn]  
+- 📧 Email: [Tu correo electrónico]  
 
+---
 
-
-
-<a href="https://es.cooltext.com"><img src="https://images.cooltext.com/5643752.png" width="427" height="89" alt="Buen curso " /></a>
-<br />
+Gracias por visitar mi perfil.
