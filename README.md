@@ -2,7 +2,7 @@
 
 ## 👨‍🎓 Ingeniero en Sistemas Computacionales  
 
-Ingeniero en sistemas computacionales con especialidad en análisis, diseño y desarrollo de software. Actualmente me encuentro en una etapa de formación práctica, desarrollando proyectos personales para aplicar mis conocimientos y seguir fortaleciendo mis habilidades técnicas.
+Ingeniero en sistemas computacionales con especialidad en **Análisis, Diseño y Desarrollo de software**. Actualmente me encuentro en una etapa de formación práctica, desarrollando proyectos personales para aplicar mis conocimientos y seguir fortaleciendo mis habilidades técnicas.
 
 Mi enfoque está en seguir aprendiendo constantemente y adaptarme a nuevas tecnologías. Busco una primera oportunidad profesional donde pueda aportar con compromiso, responsabilidad y muchas ganas de crecer dentro del área del desarrollo de software.
 
