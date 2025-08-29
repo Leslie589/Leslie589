@@ -22,7 +22,7 @@ Mi enfoque está en seguir aprendiendo constantemente y adaptarme a nuevas tecno
 ### 📫 ¿Te gustaría contactarme?
 
 - 🔗 LinkedIn: [Tu perfil de LinkedIn]  
-- 📧 Email: [Tu correo electrónico]  
+- 📧 Email: [Leslie.wilton18@tectijuana.edu.mx]  
 
 ---
 
